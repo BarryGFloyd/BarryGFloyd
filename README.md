@@ -22,8 +22,22 @@
 <h2>👨‍💻 Certifications</h2>
 
 <h2>CompTIA Sec+ </h2>
-[How to pass your Sec+ Exam practice questions]([https://youtu.be/SZn_R_cEChQ])
+Created training videos: How to pass your Sec+ Exam practice questions([https://youtu.be/SZn_R_cEChQ])
 
+<h2>Google IT Support Professional Certificate</h2>
+What I learned
+
+Learned to perform day-to-day IT support tasks including computer assembly, wireless networking, installing programs, and customer service
+Learned how to provide end-to-end customer support, ranging from identifying problems to troubleshooting and debugging
+Learned to use systems including Linux, Domain Name Systems, Command-Line Interface, and Binary Code
+
+Additional skills gained:
+Network Protocols,
+Cloud Computing,
+Encryption Algorithms and Techniques,
+Debugging,
+Virtual Box,
+Active Directory
 
 
 
