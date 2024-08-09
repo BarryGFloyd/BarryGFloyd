@@ -6,7 +6,7 @@
 
 - Created a Keylogger using Python
   
-- Created VM for Vulnerability Scan and Remediation
+- Created VM and Used Nessus for Vulnerability Scan and Remediation
 (https://github.com/BarryGFloyd/Vulnerability-Scan)
 
 
