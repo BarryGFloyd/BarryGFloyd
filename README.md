@@ -41,7 +41,7 @@ Active Directory
 
 - [Sec+ 701 exam questions(https://m.youtube.com/watch?v=r8L_jo0plLw&t=9s)
   
-- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
+- [Sec+ 701 exam questions(https://m.youtube.com/watch?v=SZn_R_cEChQ&t=16s)
   
 
 <h2> 🤳 Connect with me:</h2>
