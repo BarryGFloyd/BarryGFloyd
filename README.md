@@ -9,6 +9,8 @@
 - Created VM and Used Nessus for Vulnerability Scan and Remediation
 (https://github.com/BarryGFloyd/Vulnerability-Scan)
 
+- Created a lab demonstrating High Level knowledge of the SIEM SPLUNK
+
 
 
 
