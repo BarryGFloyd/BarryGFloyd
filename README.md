@@ -9,7 +9,7 @@
 - Created VM and Used Nessus for Vulnerability Scan and Remediation
 (https://github.com/BarryGFloyd/Vulnerability-Scan)
 
-- Created a lab demonstrating High Level knowledge of SPLUNK
+- Created a lab demonstrating High Level knowledge of Splunk
  (https://github.com/BarryGFloyd/SPLUNK/tree/main)
 
 
